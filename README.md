@@ -107,6 +107,11 @@ STATE_CD_RUNNING
 
 STATE_RING
 
+##  FSM Diagram
+
+<p align="center">
+  <img src="images/fsm_diagram.png" width="900"/>
+</p>
     V. Timer & kỹ thuật
 TIM2 interrupt:
 Quét LED 7 đoạn
