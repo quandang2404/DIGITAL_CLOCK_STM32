@@ -77,6 +77,7 @@ Chỉnh giờ → phút → giây
 Khi đến thời gian cài đặt:
 Buzzer kêu
 LED 7 đoạn hiển thị SA.HH.MM.SS
+
   4️⃣ Đếm ngược (Countdown)
 Nhấn SET COUNTDOWN
 Hiển thị: CD.MM.SS
