@@ -1,0 +1,5 @@
+../Src/led7seg.c:29:13:HC595_Send	24	static
+../Src/led7seg.c:44:6:LED7SEG_Init	4	static
+../Src/led7seg.c:52:6:LED7SEG_SetMode	16	static
+../Src/led7seg.c:71:6:LED7SEG_SetTime	16	static
+../Src/led7seg.c:85:6:LED7SEG_ScanISR	16	static

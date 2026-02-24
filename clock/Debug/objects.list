@@ -1,0 +1,8 @@
+"./Src/gpio.o"
+"./Src/led7seg.o"
+"./Src/main.o"
+"./Src/rtc.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/timer.o"
+"./Startup/startup_stm32f103c8tx.o"

@@ -1,0 +1,2 @@
+../Src/fsm.c:9:6:FSM_Init	4	static
+../Src/fsm.c:15:6:FSM_Update	8	static

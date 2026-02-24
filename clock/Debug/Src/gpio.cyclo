@@ -1,0 +1,4 @@
+../Src/gpio.c:3:6:GPIO_Init	1
+../Src/gpio.c:25:9:Button_Read	6
+../Src/gpio.c:38:6:Buzzer_On	1
+../Src/gpio.c:43:6:Buzzer_Off	1
